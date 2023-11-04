@@ -1,4 +1,4 @@
-# success rate high, output to arduino
+# success rate high, output goes to Arduino
 #
 # 784 x 200 x 10 neural network mnist hand writing test
 # original model was trained on a pc with 10k 28x28 samples
